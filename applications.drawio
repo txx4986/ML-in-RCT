@@ -1,131 +1,378 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 Edg/132.0.0.0" version="26.0.14">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0" version="26.0.14">
   <diagram name="Page-1" id="97916047-d0de-89f5-080d-49f4d83e522f">
-    <mxGraphModel dx="2037" dy="1067" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1901" dy="1063" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="nU6p1UG-6rYGhFWLCgA0-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nU6p1UG-6rYGhFWLCgA0-56" target="nU6p1UG-6rYGhFWLCgA0-57">
+        <mxCell id="nU6p1UG-6rYGhFWLCgA0-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="nU6p1UG-6rYGhFWLCgA0-56" target="nU6p1UG-6rYGhFWLCgA0-57" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nU6p1UG-6rYGhFWLCgA0-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nU6p1UG-6rYGhFWLCgA0-56" target="nU6p1UG-6rYGhFWLCgA0-58">
+        <mxCell id="nU6p1UG-6rYGhFWLCgA0-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="nU6p1UG-6rYGhFWLCgA0-56" target="nU6p1UG-6rYGhFWLCgA0-58" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nU6p1UG-6rYGhFWLCgA0-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nU6p1UG-6rYGhFWLCgA0-56" target="nU6p1UG-6rYGhFWLCgA0-62">
+        <mxCell id="nU6p1UG-6rYGhFWLCgA0-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="nU6p1UG-6rYGhFWLCgA0-56" target="nU6p1UG-6rYGhFWLCgA0-62" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nU6p1UG-6rYGhFWLCgA0-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nU6p1UG-6rYGhFWLCgA0-56" target="nU6p1UG-6rYGhFWLCgA0-60">
+        <mxCell id="nU6p1UG-6rYGhFWLCgA0-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="nU6p1UG-6rYGhFWLCgA0-56" target="nU6p1UG-6rYGhFWLCgA0-60" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nU6p1UG-6rYGhFWLCgA0-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="nU6p1UG-6rYGhFWLCgA0-56" target="nU6p1UG-6rYGhFWLCgA0-59">
+        <mxCell id="nU6p1UG-6rYGhFWLCgA0-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="nU6p1UG-6rYGhFWLCgA0-56" target="nU6p1UG-6rYGhFWLCgA0-59" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nU6p1UG-6rYGhFWLCgA0-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="nU6p1UG-6rYGhFWLCgA0-56" target="nU6p1UG-6rYGhFWLCgA0-61">
+        <mxCell id="nU6p1UG-6rYGhFWLCgA0-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="nU6p1UG-6rYGhFWLCgA0-56" target="nU6p1UG-6rYGhFWLCgA0-61" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nU6p1UG-6rYGhFWLCgA0-56" value="Applications" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="728.7804878048779" y="40" width="148.29268292682926" height="53.07692307692308" as="geometry" />
-        </mxCell>
-        <mxCell id="nU6p1UG-6rYGhFWLCgA0-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nU6p1UG-6rYGhFWLCgA0-57" target="nU6p1UG-6rYGhFWLCgA0-72">
+        <mxCell id="dUSast3UTKjSwozzXsg9-112" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="nU6p1UG-6rYGhFWLCgA0-56" target="dUSast3UTKjSwozzXsg9-102">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nU6p1UG-6rYGhFWLCgA0-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nU6p1UG-6rYGhFWLCgA0-57" target="nU6p1UG-6rYGhFWLCgA0-73">
+        <mxCell id="nU6p1UG-6rYGhFWLCgA0-56" value="Applications" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="1077.2204878048778" y="40" width="148.29268292682926" height="53.07692307692308" as="geometry" />
+        </mxCell>
+        <mxCell id="nU6p1UG-6rYGhFWLCgA0-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="nU6p1UG-6rYGhFWLCgA0-57" target="nU6p1UG-6rYGhFWLCgA0-72" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nU6p1UG-6rYGhFWLCgA0-57" value="Predict treatment outcomes" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="132.6829268292683" y="163.84615384615387" width="148.29268292682926" height="53.07692307692308" as="geometry" />
-        </mxCell>
-        <mxCell id="nU6p1UG-6rYGhFWLCgA0-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nU6p1UG-6rYGhFWLCgA0-58" target="nU6p1UG-6rYGhFWLCgA0-89">
+        <mxCell id="nU6p1UG-6rYGhFWLCgA0-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="nU6p1UG-6rYGhFWLCgA0-57" target="nU6p1UG-6rYGhFWLCgA0-73" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nU6p1UG-6rYGhFWLCgA0-58" value="Estimate CATE" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="395.12195121951214" y="163.84615384615387" width="148.29268292682926" height="53.07692307692308" as="geometry" />
+        <mxCell id="nU6p1UG-6rYGhFWLCgA0-57" value="Predict treatment outcomes" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="217.5629268292683" y="163.84615384615387" width="148.29268292682926" height="53.07692307692308" as="geometry" />
         </mxCell>
-        <mxCell id="nU6p1UG-6rYGhFWLCgA0-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nU6p1UG-6rYGhFWLCgA0-59" target="nU6p1UG-6rYGhFWLCgA0-74">
+        <mxCell id="nU6p1UG-6rYGhFWLCgA0-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="719.7282926829265" y="216.9230769230769" as="sourcePoint" />
+            <mxPoint x="719.7282926829266" y="453.0730769230769" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nU6p1UG-6rYGhFWLCgA0-58" value="Estimate CATE" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="646.2519512195122" y="163.84615384615387" width="148.29268292682926" height="53.07692307692308" as="geometry" />
+        </mxCell>
+        <mxCell id="nU6p1UG-6rYGhFWLCgA0-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="nU6p1UG-6rYGhFWLCgA0-59" target="nU6p1UG-6rYGhFWLCgA0-74" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nU6p1UG-6rYGhFWLCgA0-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nU6p1UG-6rYGhFWLCgA0-59" target="nU6p1UG-6rYGhFWLCgA0-75">
+        <mxCell id="nU6p1UG-6rYGhFWLCgA0-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="nU6p1UG-6rYGhFWLCgA0-59" target="nU6p1UG-6rYGhFWLCgA0-75" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nU6p1UG-6rYGhFWLCgA0-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="nU6p1UG-6rYGhFWLCgA0-59" target="nU6p1UG-6rYGhFWLCgA0-76">
+        <mxCell id="nU6p1UG-6rYGhFWLCgA0-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="nU6p1UG-6rYGhFWLCgA0-59" target="nU6p1UG-6rYGhFWLCgA0-76" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nU6p1UG-6rYGhFWLCgA0-59" value="Identify subgroups" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="1426.8280487804877" y="163.84615384615387" width="148.29268292682926" height="53.07692307692308" as="geometry" />
+        <mxCell id="nU6p1UG-6rYGhFWLCgA0-59" value="Identify subgroups" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="2325.8580487804875" y="163.84615384615387" width="148.29268292682926" height="53.07692307692308" as="geometry" />
         </mxCell>
-        <mxCell id="nU6p1UG-6rYGhFWLCgA0-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="nU6p1UG-6rYGhFWLCgA0-60" target="nU6p1UG-6rYGhFWLCgA0-91">
+        <mxCell id="dUSast3UTKjSwozzXsg9-113" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="nU6p1UG-6rYGhFWLCgA0-60" target="dUSast3UTKjSwozzXsg9-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nU6p1UG-6rYGhFWLCgA0-60" value="Identify ITR / DTR" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="837.2195121951219" y="163.84615384615387" width="148.29268292682926" height="53.07692307692308" as="geometry" />
+        <mxCell id="nU6p1UG-6rYGhFWLCgA0-60" value="Individualised treatment rule (ITR)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="1205.8495121951219" y="163.84615384615387" width="148.29268292682926" height="53.07692307692308" as="geometry" />
         </mxCell>
-        <mxCell id="nU6p1UG-6rYGhFWLCgA0-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nU6p1UG-6rYGhFWLCgA0-61" target="nU6p1UG-6rYGhFWLCgA0-90">
+        <mxCell id="nU6p1UG-6rYGhFWLCgA0-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="nU6p1UG-6rYGhFWLCgA0-61" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1839.9953658536579" y="453.0730769230769" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nU6p1UG-6rYGhFWLCgA0-61" value="Identify biomarkers" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="1765.8490243902436" y="163.84615384615387" width="148.29268292682926" height="53.07692307692308" as="geometry" />
+        </mxCell>
+        <mxCell id="nU6p1UG-6rYGhFWLCgA0-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="nU6p1UG-6rYGhFWLCgA0-62" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1000.0000000000001" y="453.06999999999994" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nU6p1UG-6rYGhFWLCgA0-62" value="Estimate ATE" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="925.8509756097561" y="163.84615384615387" width="148.29268292682926" height="53.07692307692308" as="geometry" />
+        </mxCell>
+        <mxCell id="nU6p1UG-6rYGhFWLCgA0-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="nU6p1UG-6rYGhFWLCgA0-72" target="dUSast3UTKjSwozzXsg9-39" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="159.9963414634145" y="446.92384615384617" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nU6p1UG-6rYGhFWLCgA0-72" value="Personalised Advantage Index (PAI)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="85.85" y="309.99615384615385" width="148.29268292682926" height="53.07692307692308" as="geometry" />
+        </mxCell>
+        <mxCell id="nU6p1UG-6rYGhFWLCgA0-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="nU6p1UG-6rYGhFWLCgA0-73" target="dUSast3UTKjSwozzXsg9-35" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="440.00390243902416" y="446.92384615384617" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nU6p1UG-6rYGhFWLCgA0-73" value="Feature importance?" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="365.8575609756097" y="309.99615384615385" width="148.29268292682926" height="53.07692307692308" as="geometry" />
+        </mxCell>
+        <mxCell id="nU6p1UG-6rYGhFWLCgA0-105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="nU6p1UG-6rYGhFWLCgA0-74" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2119.9953658536588" y="453.0730769230769" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nU6p1UG-6rYGhFWLCgA0-74" value="Cluster baseline data&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; text-wrap-mode: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22Importance%20of%20treatment%20assignment%20in%20predictor%22%20style%3D%22rounded%3D1%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3BfillColor%3D%23d5e8d4%3BstrokeColor%3D%2382b366%3BfontSize%3D16%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22250%22%20y%3D%22390%22%20width%3D%22160%22%20height%3D%2260%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="2045.848780487805" y="309.99615384615385" width="148.29268292682926" height="53.07692307692308" as="geometry" />
+        </mxCell>
+        <mxCell id="nU6p1UG-6rYGhFWLCgA0-108" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="nU6p1UG-6rYGhFWLCgA0-75" target="dUSast3UTKjSwozzXsg9-27" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2399.0299999999997" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nU6p1UG-6rYGhFWLCgA0-75" value="Cluster outcome data" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="2325.8580487804875" y="309.99615384615385" width="148.29268292682926" height="53.07692307692308" as="geometry" />
+        </mxCell>
+        <mxCell id="nU6p1UG-6rYGhFWLCgA0-109" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="nU6p1UG-6rYGhFWLCgA0-76" target="dUSast3UTKjSwozzXsg9-31" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2678" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nU6p1UG-6rYGhFWLCgA0-76" value="Identify subgroups with HTE" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="2603.657317073171" y="309.99615384615385" width="148.29268292682926" height="53.07692307692308" as="geometry" />
+        </mxCell>
+        <mxCell id="dUSast3UTKjSwozzXsg9-67" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="dUSast3UTKjSwozzXsg9-1" target="dUSast3UTKjSwozzXsg9-62">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nU6p1UG-6rYGhFWLCgA0-61" value="Identify biomarkers" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="1062.4390243902437" y="163.84615384615387" width="148.29268292682926" height="53.07692307692308" as="geometry" />
+        <mxCell id="dUSast3UTKjSwozzXsg9-1" value="&lt;font&gt;Examples&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;rounded=1;fillColor=#ffe6cc;strokeColor=#d79b00;startSize=40;fontSize=16;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="600.39" y="453.07" width="240" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="nU6p1UG-6rYGhFWLCgA0-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nU6p1UG-6rYGhFWLCgA0-62" target="nU6p1UG-6rYGhFWLCgA0-92">
+        <mxCell id="dUSast3UTKjSwozzXsg9-2" value="&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://pmc.ncbi.nlm.nih.gov/articles/PMC9459357/#bibr40-0272989X221100717&quot;&gt;A Machine-Learning Approach for Estimating Subgroup- and Individual-Level Treatment Effects: An Illustration Using the 65 Trial - PMC&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.sciencedirect.com/science/article/pii/S1047279721001587#bib0005&quot;&gt;Estimating heterogeneous survival treatment effects of lung cancer screening approaches: A causal machine learning analysis - ScienceDirect&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="dUSast3UTKjSwozzXsg9-1">
+          <mxGeometry x="-21" y="46.93" width="261" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="dUSast3UTKjSwozzXsg9-3" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="dUSast3UTKjSwozzXsg9-1" source="dUSast3UTKjSwozzXsg9-2" target="dUSast3UTKjSwozzXsg9-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nU6p1UG-6rYGhFWLCgA0-62" value="Estimate ATE" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="617.560975609756" y="163.84615384615387" width="148.29268292682926" height="53.07692307692308" as="geometry" />
-        </mxCell>
-        <mxCell id="nU6p1UG-6rYGhFWLCgA0-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nU6p1UG-6rYGhFWLCgA0-72" target="nU6p1UG-6rYGhFWLCgA0-83">
+        <mxCell id="dUSast3UTKjSwozzXsg9-4" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="dUSast3UTKjSwozzXsg9-1" source="dUSast3UTKjSwozzXsg9-2" target="dUSast3UTKjSwozzXsg9-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nU6p1UG-6rYGhFWLCgA0-72" value="Personalised Advantage Index (PAI)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="40" y="309.99615384615385" width="148.29268292682926" height="53.07692307692308" as="geometry" />
-        </mxCell>
-        <mxCell id="nU6p1UG-6rYGhFWLCgA0-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nU6p1UG-6rYGhFWLCgA0-73" target="nU6p1UG-6rYGhFWLCgA0-85">
+        <mxCell id="dUSast3UTKjSwozzXsg9-77" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="dUSast3UTKjSwozzXsg9-10" target="dUSast3UTKjSwozzXsg9-73">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nU6p1UG-6rYGhFWLCgA0-73" value="Importance of treatment assignment in predictor" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="216.09756097560972" y="309.99615384615385" width="148.29268292682926" height="53.07692307692308" as="geometry" />
+        <mxCell id="dUSast3UTKjSwozzXsg9-10" value="&lt;font&gt;Examples&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;rounded=1;fillColor=#ffe6cc;strokeColor=#d79b00;startSize=40;fontSize=16;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="880" y="453.07" width="240" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="nU6p1UG-6rYGhFWLCgA0-105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nU6p1UG-6rYGhFWLCgA0-74" target="nU6p1UG-6rYGhFWLCgA0-103">
+        <mxCell id="dUSast3UTKjSwozzXsg9-11" value="&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://onlinelibrary.wiley.com/doi/10.1002/sim.7389&quot;&gt;Doubly robust inference for targeted minimum loss–based estimation in randomized trials with missing outcome data - Díaz - 2017 - Statistics in Medicine&amp;nbsp;&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://journals.sagepub.com/doi/10.1177/0962280218774936&quot;&gt;A new approach to hierarchical data analysis: Targeted maximum likelihood estimation for the causal effect of a cluster-level exposure&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="dUSast3UTKjSwozzXsg9-10">
+          <mxGeometry x="-21" y="46.93" width="261" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="dUSast3UTKjSwozzXsg9-12" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="dUSast3UTKjSwozzXsg9-10" source="dUSast3UTKjSwozzXsg9-11" target="dUSast3UTKjSwozzXsg9-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nU6p1UG-6rYGhFWLCgA0-74" value="Cluster baseline data&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; text-wrap-mode: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22Importance%20of%20treatment%20assignment%20in%20predictor%22%20style%3D%22rounded%3D1%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3BfillColor%3D%23d5e8d4%3BstrokeColor%3D%2382b366%3BfontSize%3D16%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22250%22%20y%3D%22390%22%20width%3D%22160%22%20height%3D%2260%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="1259.9987804878049" y="309.99615384615385" width="148.29268292682926" height="53.07692307692308" as="geometry" />
-        </mxCell>
-        <mxCell id="nU6p1UG-6rYGhFWLCgA0-108" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nU6p1UG-6rYGhFWLCgA0-75" target="nU6p1UG-6rYGhFWLCgA0-107">
+        <mxCell id="dUSast3UTKjSwozzXsg9-13" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="dUSast3UTKjSwozzXsg9-10" source="dUSast3UTKjSwozzXsg9-11" target="dUSast3UTKjSwozzXsg9-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nU6p1UG-6rYGhFWLCgA0-75" value="Cluster outcome data" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="1426.8280487804877" y="309.99615384615385" width="148.29268292682926" height="53.07692307692308" as="geometry" />
-        </mxCell>
-        <mxCell id="nU6p1UG-6rYGhFWLCgA0-109" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nU6p1UG-6rYGhFWLCgA0-76" target="nU6p1UG-6rYGhFWLCgA0-106">
+        <mxCell id="dUSast3UTKjSwozzXsg9-83" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="dUSast3UTKjSwozzXsg9-15" target="dUSast3UTKjSwozzXsg9-78">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nU6p1UG-6rYGhFWLCgA0-76" value="Identify subgroups with HTE" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="1593.6573170731706" y="309.99615384615385" width="148.29268292682926" height="53.07692307692308" as="geometry" />
+        <mxCell id="dUSast3UTKjSwozzXsg9-15" value="&lt;font&gt;Examples&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;rounded=1;fillColor=#ffe6cc;strokeColor=#d79b00;startSize=40;fontSize=16;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="1160" y="453.07" width="240" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="nU6p1UG-6rYGhFWLCgA0-83" value="Examples" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="40" y="446.9238461538462" width="148.29268292682926" height="53.07692307692308" as="geometry" />
+        <mxCell id="dUSast3UTKjSwozzXsg9-16" value="&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://www.cambridge.org/core/journals/psychological-medicine/article/an-individualized-treatment-rule-to-optimize-probability-of-remission-by-continuation-switching-or-combining-antidepressant-medications-after-failing-a-firstline-antidepressant-in-a-twostage-randomized-trial/DDEFA9F0735147100E0BE81491B362C8&quot;&gt;An individualized treatment rule to optimize probability of remission by continuation, switching, or combining antidepressant medications after failing a first-line antidepressant in a two-stage randomized trial&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.tandfonline.com/doi/full/10.1080/24709360.2018.1435608#abstract&quot;&gt;Full article: Tree-based ensemble methods for individualized treatment rules&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="dUSast3UTKjSwozzXsg9-15">
+          <mxGeometry x="-24" y="48.93" width="264" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="nU6p1UG-6rYGhFWLCgA0-85" value="Examples" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="216.09756097560972" y="446.92384615384617" width="148.29268292682926" height="53.07692307692308" as="geometry" />
+        <mxCell id="dUSast3UTKjSwozzXsg9-17" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="dUSast3UTKjSwozzXsg9-15" source="dUSast3UTKjSwozzXsg9-16" target="dUSast3UTKjSwozzXsg9-16">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nU6p1UG-6rYGhFWLCgA0-89" value="Examples" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="395.12195121951214" y="446.92307692307696" width="148.29268292682926" height="53.07692307692308" as="geometry" />
+        <mxCell id="dUSast3UTKjSwozzXsg9-18" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="dUSast3UTKjSwozzXsg9-15" source="dUSast3UTKjSwozzXsg9-16" target="dUSast3UTKjSwozzXsg9-16">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nU6p1UG-6rYGhFWLCgA0-90" value="Examples" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="1062.4390243902437" y="446.92307692307696" width="148.29268292682926" height="53.07692307692308" as="geometry" />
+        <mxCell id="dUSast3UTKjSwozzXsg9-88" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="dUSast3UTKjSwozzXsg9-19" target="dUSast3UTKjSwozzXsg9-84">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nU6p1UG-6rYGhFWLCgA0-91" value="Examples" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="837.2195121951219" y="446.92307692307696" width="148.29268292682926" height="53.07692307692308" as="geometry" />
+        <mxCell id="dUSast3UTKjSwozzXsg9-19" value="&lt;font&gt;Examples&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;rounded=1;fillColor=#ffe6cc;strokeColor=#d79b00;startSize=40;fontSize=16;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="1720" y="453.07" width="240" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="nU6p1UG-6rYGhFWLCgA0-92" value="Examples" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="617.560975609756" y="446.92307692307696" width="148.29268292682926" height="53.07692307692308" as="geometry" />
+        <mxCell id="dUSast3UTKjSwozzXsg9-20" value="&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://pmc.ncbi.nlm.nih.gov/articles/PMC9459357/#bibr40-0272989X221100717&quot;&gt;A Machine-Learning Approach for Estimating Subgroup- and Individual-Level Treatment Effects: An Illustration Using the 65 Trial - PMC&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.sciencedirect.com/science/article/pii/S1047279721001587#bib0005&quot;&gt;Estimating heterogeneous survival treatment effects of lung cancer screening approaches: A causal machine learning analysis - ScienceDirect&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="dUSast3UTKjSwozzXsg9-19">
+          <mxGeometry x="-21" y="46.93" width="261" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="nU6p1UG-6rYGhFWLCgA0-103" value="Examples" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="1259.9990243902437" y="446.92307692307696" width="148.29268292682926" height="53.07692307692308" as="geometry" />
+        <mxCell id="dUSast3UTKjSwozzXsg9-21" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="dUSast3UTKjSwozzXsg9-19" source="dUSast3UTKjSwozzXsg9-20" target="dUSast3UTKjSwozzXsg9-20">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nU6p1UG-6rYGhFWLCgA0-106" value="Examples" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="1593.6590243902438" y="446.92307692307696" width="148.29268292682926" height="53.07692307692308" as="geometry" />
+        <mxCell id="dUSast3UTKjSwozzXsg9-22" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="dUSast3UTKjSwozzXsg9-19" source="dUSast3UTKjSwozzXsg9-20" target="dUSast3UTKjSwozzXsg9-20">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nU6p1UG-6rYGhFWLCgA0-107" value="Examples" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="1426.8290243902438" y="446.92307692307696" width="148.29268292682926" height="53.07692307692308" as="geometry" />
+        <mxCell id="dUSast3UTKjSwozzXsg9-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="dUSast3UTKjSwozzXsg9-23" target="dUSast3UTKjSwozzXsg9-89">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dUSast3UTKjSwozzXsg9-23" value="&lt;font&gt;Examples&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;rounded=1;fillColor=#ffe6cc;strokeColor=#d79b00;startSize=40;fontSize=16;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="2000" y="453.07" width="240" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="dUSast3UTKjSwozzXsg9-24" value="&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://diabetesjournals.org/care/article/44/5/1203/138756/Type-2-Diabetes-Subgroups-Risk-for-Complications&quot;&gt;Type 2 Diabetes Subgroups, Risk for Complications, and Differential Effects Due to an Intensive Lifestyle Intervention&amp;nbsp;&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://onlinelibrary.wiley.com/doi/10.1002/ejhf.1333&quot;&gt;Machine learning‐based phenogrouping in heart failure to identify responders to cardiac resynchronization therapy - Cikes - 2019 - European Journal of Heart Failure - Wiley Online Library&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="dUSast3UTKjSwozzXsg9-23">
+          <mxGeometry x="-21" y="46.93" width="261" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="dUSast3UTKjSwozzXsg9-25" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="dUSast3UTKjSwozzXsg9-23" source="dUSast3UTKjSwozzXsg9-24" target="dUSast3UTKjSwozzXsg9-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dUSast3UTKjSwozzXsg9-26" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="dUSast3UTKjSwozzXsg9-23" source="dUSast3UTKjSwozzXsg9-24" target="dUSast3UTKjSwozzXsg9-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dUSast3UTKjSwozzXsg9-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="1" source="dUSast3UTKjSwozzXsg9-27" target="dUSast3UTKjSwozzXsg9-89">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dUSast3UTKjSwozzXsg9-27" value="&lt;font&gt;Examples&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;rounded=1;fillColor=#ffe6cc;strokeColor=#d79b00;startSize=40;fontSize=16;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="2280" y="453.07" width="240" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="dUSast3UTKjSwozzXsg9-28" value="&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://pmc.ncbi.nlm.nih.gov/articles/PMC9459357/#bibr40-0272989X221100717&quot;&gt;A Machine-Learning Approach for Estimating Subgroup- and Individual-Level Treatment Effects: An Illustration Using the 65 Trial - PMC&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.sciencedirect.com/science/article/pii/S1047279721001587#bib0005&quot;&gt;Estimating heterogeneous survival treatment effects of lung cancer screening approaches: A causal machine learning analysis - ScienceDirect&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="dUSast3UTKjSwozzXsg9-27">
+          <mxGeometry x="-21" y="46.93" width="261" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="dUSast3UTKjSwozzXsg9-29" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="dUSast3UTKjSwozzXsg9-27" source="dUSast3UTKjSwozzXsg9-28" target="dUSast3UTKjSwozzXsg9-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dUSast3UTKjSwozzXsg9-30" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="dUSast3UTKjSwozzXsg9-27" source="dUSast3UTKjSwozzXsg9-28" target="dUSast3UTKjSwozzXsg9-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dUSast3UTKjSwozzXsg9-98" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="dUSast3UTKjSwozzXsg9-31" target="dUSast3UTKjSwozzXsg9-93">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dUSast3UTKjSwozzXsg9-31" value="&lt;font&gt;Examples&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;rounded=1;fillColor=#ffe6cc;strokeColor=#d79b00;startSize=40;fontSize=16;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="2557.8" y="453.07" width="240" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="dUSast3UTKjSwozzXsg9-32" value="&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://www.tandfonline.com/doi/full/10.1080/10503307.2015.1062934&quot;&gt;Full article: QUINT: A tool to detect qualitative treatment–subgroup interactions in randomized controlled trials&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://link.springer.com/article/10.1007/s43441-021-00329-1&quot;&gt;Data-Driven Subgroup Identification in Confirmatory Clinical Trials | Therapeutic Innovation &amp;amp; Regulatory Science&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="dUSast3UTKjSwozzXsg9-31">
+          <mxGeometry x="-21" y="46.93" width="261" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="dUSast3UTKjSwozzXsg9-33" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="dUSast3UTKjSwozzXsg9-31" source="dUSast3UTKjSwozzXsg9-32" target="dUSast3UTKjSwozzXsg9-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dUSast3UTKjSwozzXsg9-34" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="dUSast3UTKjSwozzXsg9-31" source="dUSast3UTKjSwozzXsg9-32" target="dUSast3UTKjSwozzXsg9-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dUSast3UTKjSwozzXsg9-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="dUSast3UTKjSwozzXsg9-35" target="dUSast3UTKjSwozzXsg9-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dUSast3UTKjSwozzXsg9-35" value="&lt;font&gt;Examples&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;rounded=1;fillColor=#ffe6cc;strokeColor=#d79b00;startSize=40;fontSize=16;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="320" y="453.07" width="240" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="dUSast3UTKjSwozzXsg9-36" value="&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://pmc.ncbi.nlm.nih.gov/articles/PMC9459357/#bibr40-0272989X221100717&quot;&gt;A Machine-Learning Approach for Estimating Subgroup- and Individual-Level Treatment Effects: An Illustration Using the 65 Trial - PMC&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.sciencedirect.com/science/article/pii/S1047279721001587#bib0005&quot;&gt;Estimating heterogeneous survival treatment effects of lung cancer screening approaches: A causal machine learning analysis - ScienceDirect&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="dUSast3UTKjSwozzXsg9-35">
+          <mxGeometry x="-21" y="46.93" width="261" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="dUSast3UTKjSwozzXsg9-37" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="dUSast3UTKjSwozzXsg9-35" source="dUSast3UTKjSwozzXsg9-36" target="dUSast3UTKjSwozzXsg9-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dUSast3UTKjSwozzXsg9-38" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="dUSast3UTKjSwozzXsg9-35" source="dUSast3UTKjSwozzXsg9-36" target="dUSast3UTKjSwozzXsg9-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dUSast3UTKjSwozzXsg9-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="dUSast3UTKjSwozzXsg9-39" target="dUSast3UTKjSwozzXsg9-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dUSast3UTKjSwozzXsg9-39" value="&lt;font&gt;Examples&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;rounded=1;fillColor=#ffe6cc;strokeColor=#d79b00;startSize=40;fontSize=16;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="39.99999999999997" y="453.07" width="240" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="dUSast3UTKjSwozzXsg9-40" value="&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://pmc.ncbi.nlm.nih.gov/articles/PMC9459357/#bibr40-0272989X221100717&quot;&gt;A Machine-Learning Approach for Estimating Subgroup- and Individual-Level Treatment Effects: An Illustration Using the 65 Trial - PMC&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.sciencedirect.com/science/article/pii/S1047279721001587#bib0005&quot;&gt;Estimating heterogeneous survival treatment effects of lung cancer screening approaches: A causal machine learning analysis - ScienceDirect&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="dUSast3UTKjSwozzXsg9-39">
+          <mxGeometry x="-21" y="46.93" width="261" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="dUSast3UTKjSwozzXsg9-41" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="dUSast3UTKjSwozzXsg9-39" source="dUSast3UTKjSwozzXsg9-40" target="dUSast3UTKjSwozzXsg9-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dUSast3UTKjSwozzXsg9-42" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="dUSast3UTKjSwozzXsg9-39" source="dUSast3UTKjSwozzXsg9-40" target="dUSast3UTKjSwozzXsg9-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dUSast3UTKjSwozzXsg9-43" value="&lt;font&gt;Common methods&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;rounded=1;fillColor=#fff2cc;strokeColor=#d6b656;startSize=40;fontSize=16;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry x="197.56" y="720" width="188.29" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="dUSast3UTKjSwozzXsg9-44" value="&lt;div&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;random forest&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;labelPosition=center;verticalLabelPosition=middle;" vertex="1" parent="dUSast3UTKjSwozzXsg9-43">
+          <mxGeometry x="-10.5" y="30" width="180.5" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="dUSast3UTKjSwozzXsg9-45" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="dUSast3UTKjSwozzXsg9-43" source="dUSast3UTKjSwozzXsg9-44" target="dUSast3UTKjSwozzXsg9-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dUSast3UTKjSwozzXsg9-46" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="dUSast3UTKjSwozzXsg9-43" source="dUSast3UTKjSwozzXsg9-44" target="dUSast3UTKjSwozzXsg9-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dUSast3UTKjSwozzXsg9-62" value="&lt;font&gt;Common methods&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;rounded=1;fillColor=#fff2cc;strokeColor=#d6b656;startSize=40;fontSize=16;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry x="626.25" y="720" width="188.29" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="dUSast3UTKjSwozzXsg9-63" value="&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;causal forest&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;bayesian additive regression tree (BART)&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;penalized regression&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;labelPosition=center;verticalLabelPosition=middle;" vertex="1" parent="dUSast3UTKjSwozzXsg9-62">
+          <mxGeometry x="-10.5" y="30" width="190.5" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="dUSast3UTKjSwozzXsg9-64" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="dUSast3UTKjSwozzXsg9-62" source="dUSast3UTKjSwozzXsg9-63" target="dUSast3UTKjSwozzXsg9-63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dUSast3UTKjSwozzXsg9-65" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="dUSast3UTKjSwozzXsg9-62" source="dUSast3UTKjSwozzXsg9-63" target="dUSast3UTKjSwozzXsg9-63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dUSast3UTKjSwozzXsg9-73" value="&lt;font&gt;Common methods&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;rounded=1;fillColor=#fff2cc;strokeColor=#d6b656;startSize=40;fontSize=16;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry x="905.85" y="720" width="188.29" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="dUSast3UTKjSwozzXsg9-74" value="&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;Targeted maximum likelihood estimator / Targeted minimum loss-based estimator (TMLE)&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;labelPosition=center;verticalLabelPosition=middle;" vertex="1" parent="dUSast3UTKjSwozzXsg9-73">
+          <mxGeometry x="-10.5" y="30" width="190.5" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="dUSast3UTKjSwozzXsg9-75" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="dUSast3UTKjSwozzXsg9-73" source="dUSast3UTKjSwozzXsg9-74" target="dUSast3UTKjSwozzXsg9-74">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dUSast3UTKjSwozzXsg9-76" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="dUSast3UTKjSwozzXsg9-73" source="dUSast3UTKjSwozzXsg9-74" target="dUSast3UTKjSwozzXsg9-74">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dUSast3UTKjSwozzXsg9-78" value="&lt;font&gt;Common methods&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;rounded=1;fillColor=#fff2cc;strokeColor=#d6b656;startSize=40;fontSize=16;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry x="1185.85" y="720" width="188.29" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="dUSast3UTKjSwozzXsg9-79" value="&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;superlearner&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;weighted random forest&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;labelPosition=center;verticalLabelPosition=middle;" vertex="1" parent="dUSast3UTKjSwozzXsg9-78">
+          <mxGeometry x="-10.5" y="30" width="190.5" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="dUSast3UTKjSwozzXsg9-80" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="dUSast3UTKjSwozzXsg9-78" source="dUSast3UTKjSwozzXsg9-79" target="dUSast3UTKjSwozzXsg9-79">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dUSast3UTKjSwozzXsg9-81" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="dUSast3UTKjSwozzXsg9-78" source="dUSast3UTKjSwozzXsg9-79" target="dUSast3UTKjSwozzXsg9-79">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dUSast3UTKjSwozzXsg9-84" value="&lt;font&gt;Common methods&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;rounded=1;fillColor=#fff2cc;strokeColor=#d6b656;startSize=40;fontSize=16;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry x="1745.85" y="720" width="188.29" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="dUSast3UTKjSwozzXsg9-85" value="&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;penalized regression&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;labelPosition=center;verticalLabelPosition=middle;" vertex="1" parent="dUSast3UTKjSwozzXsg9-84">
+          <mxGeometry x="-10.5" y="30" width="190.5" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="dUSast3UTKjSwozzXsg9-86" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="dUSast3UTKjSwozzXsg9-84" source="dUSast3UTKjSwozzXsg9-85" target="dUSast3UTKjSwozzXsg9-85">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dUSast3UTKjSwozzXsg9-87" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="dUSast3UTKjSwozzXsg9-84" source="dUSast3UTKjSwozzXsg9-85" target="dUSast3UTKjSwozzXsg9-85">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dUSast3UTKjSwozzXsg9-89" value="&lt;font&gt;Common methods&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;rounded=1;fillColor=#fff2cc;strokeColor=#d6b656;startSize=40;fontSize=16;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry x="2160" y="710" width="188.29" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="dUSast3UTKjSwozzXsg9-90" value="&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;k-means&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;hierarchical clustering&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;labelPosition=center;verticalLabelPosition=middle;" vertex="1" parent="dUSast3UTKjSwozzXsg9-89">
+          <mxGeometry x="-10.5" y="30" width="190.5" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="dUSast3UTKjSwozzXsg9-91" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="dUSast3UTKjSwozzXsg9-89" source="dUSast3UTKjSwozzXsg9-90" target="dUSast3UTKjSwozzXsg9-90">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dUSast3UTKjSwozzXsg9-92" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="dUSast3UTKjSwozzXsg9-89" source="dUSast3UTKjSwozzXsg9-90" target="dUSast3UTKjSwozzXsg9-90">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dUSast3UTKjSwozzXsg9-93" value="&lt;font&gt;Common methods&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;rounded=1;fillColor=#fff2cc;strokeColor=#d6b656;startSize=40;fontSize=16;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry x="2583.66" y="700" width="190" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="dUSast3UTKjSwozzXsg9-94" value="&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;virtual twins&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;qualitative interaction trees (QUINT)&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;subgroup identification based on differential effect search (SIDES)&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;labelPosition=center;verticalLabelPosition=middle;" vertex="1" parent="1">
+          <mxGeometry x="2570" y="724" width="203.66" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="dUSast3UTKjSwozzXsg9-95" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="dUSast3UTKjSwozzXsg9-94" target="dUSast3UTKjSwozzXsg9-94">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dUSast3UTKjSwozzXsg9-96" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="dUSast3UTKjSwozzXsg9-94" target="dUSast3UTKjSwozzXsg9-94">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dUSast3UTKjSwozzXsg9-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="dUSast3UTKjSwozzXsg9-102" target="dUSast3UTKjSwozzXsg9-104">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1560" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dUSast3UTKjSwozzXsg9-102" value="Dynamic treatment regime (DTR)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1485.8495121951219" y="163.84615384615387" width="148.29268292682926" height="53.07692307692308" as="geometry" />
+        </mxCell>
+        <mxCell id="dUSast3UTKjSwozzXsg9-103" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="dUSast3UTKjSwozzXsg9-104" target="dUSast3UTKjSwozzXsg9-108">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dUSast3UTKjSwozzXsg9-104" value="&lt;font&gt;Examples&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;rounded=1;fillColor=#ffe6cc;strokeColor=#d79b00;startSize=40;fontSize=16;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="1440" y="453.07" width="240" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="dUSast3UTKjSwozzXsg9-105" value="&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://onlinelibrary.wiley.com/doi/10.1111/sjos.12359&quot;&gt;A smoothed Q‐learning algorithm for estimating optimal dynamic treatment regimes - Fan - 2019 - Scandinavian Journal of Statistics - Wiley Online Library&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://academic.oup.com/biometrics/article/74/4/1180/7537571#435759137&quot;&gt;Optimal Two-Stage Dynamic Treatment Regimes from a Classification Perspective with Censored Survival Data | Biometrics | Oxford Academic&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="dUSast3UTKjSwozzXsg9-104">
+          <mxGeometry x="-21" y="46.93" width="261" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="dUSast3UTKjSwozzXsg9-106" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="dUSast3UTKjSwozzXsg9-104" source="dUSast3UTKjSwozzXsg9-105" target="dUSast3UTKjSwozzXsg9-105">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dUSast3UTKjSwozzXsg9-107" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="dUSast3UTKjSwozzXsg9-104" source="dUSast3UTKjSwozzXsg9-105" target="dUSast3UTKjSwozzXsg9-105">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dUSast3UTKjSwozzXsg9-108" value="&lt;font&gt;Common methods&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;rounded=1;fillColor=#fff2cc;strokeColor=#d6b656;startSize=40;fontSize=16;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry x="1465.85" y="720" width="188.29" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="dUSast3UTKjSwozzXsg9-109" value="&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;Q-learning&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;A-learning&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;outcome weighted learning&amp;nbsp;&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;labelPosition=center;verticalLabelPosition=middle;" vertex="1" parent="dUSast3UTKjSwozzXsg9-108">
+          <mxGeometry x="-10.5" y="30" width="190.5" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="dUSast3UTKjSwozzXsg9-110" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="dUSast3UTKjSwozzXsg9-108" source="dUSast3UTKjSwozzXsg9-109" target="dUSast3UTKjSwozzXsg9-109">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dUSast3UTKjSwozzXsg9-111" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="dUSast3UTKjSwozzXsg9-108" source="dUSast3UTKjSwozzXsg9-109" target="dUSast3UTKjSwozzXsg9-109">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
